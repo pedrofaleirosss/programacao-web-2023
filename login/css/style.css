@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color: gray;
+}
+#tudo{
+    background-color: white;
+    margin-top: 10%;
+    border: solid black 2px;
+    height: 500px;
+    width:400px;
+    text-align:center;
+    border-radius:25px;
+}
+h1{
+    margin-top: 32%;
+}
+#botao{
+    height:40px;
+    width:90px;
+    margin-top: 10%;
+    background-color: pink;
+}
+#botao:hover{
+    background-color: purple;
+}
+
+.caixa{
+    width: 220px;
+    height: 25px;
+    border: solid black 2px;
+}
+
